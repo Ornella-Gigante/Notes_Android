@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Notitas</string>
+    <string name="id_nota">Id de la nota:</string>
+    <string name="info_nota">Información de la nota:</string>
+    <string name="borrar_nota">Borrar</string>
+    <string name="atras">Volver</string>
+    <string name="ingresar_nota">Ingrese la nota</string>
+    <string name="crear_nota">Crear Nota</string>
+    <string name="borrar_notas">Borrar todas las notas</string>
+    <string name="seguro">¿Estás seguro de que deseas borrar esta nota?</string>
+    <string name="borrado">Nota borrada</string>
+    <string name="no_borrado">No se ha borrado la nota</string>
+    <string name="obligatorio">Nota obligatoria</string>
+    <string name="correcto">Nota creada correctamente</string>
+    <string name="se_ha_borrado">Se han borrado todas las notas correctamente</string>
+    <string name="id">Id de la nota: </string>
+    <string name="info">Información de la nota:</string>
+</resources>

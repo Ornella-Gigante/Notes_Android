@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Notitas</string>
+    <string name="id_nota">Id de la nota: </string>
+    <string name="info_nota">Informació de la nota: </string>
+    <string name="borrar_nota">Esborrar </string>
+    <string name="atras">Tornar </string>
+    <string name="ingresar_nota">Introdueix la nota </string>
+    <string name="crear_nota">Crear Nota </string>
+    <string name="borrar_notas">Esborrar totes les notes </string>
+    <string name="seguro">Estàs segur que vols esborrar aquesta nota? </string>
+    <string name="borrado">Nota esborrada </string>
+    <string name="no_borrado">No s\'ha esborrat la nota </string>
+    <string name="obligatorio">Nota obligatòria </string>
+    <string name="correcto">Nota creada correctament </string>
+    <string name="se_ha_borrado">S\'han esborrat totes les notes correctament </string>
+    <string name="id">Id de la nota: </string>
+    <string name="info">Informació de la nota: </string>
+</resources>
+
+

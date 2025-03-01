@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Notitas</string>
+    <string name="id_nota">Note Id:</string>
+    <string name="info_nota">Note Information:</string>
+    <string name="borrar_nota">Delete</string>
+    <string name="atras">Back</string>
+    <string name="ingresar_nota">Enter the note</string>
+    <string name="crear_nota">Create Note</string>
+    <string name="borrar_notas">Delete all notes</string>
+    <string name="seguro">Are you sure you want to delete this note?</string>
+    <string name="borrado">Note deleted</string>
+    <string name="no_borrado">Note not deleted</string>
+    <string name="obligatorio">Required note</string>
+    <string name="correcto">Note created successfully</string>
+    <string name="se_ha_borrado">All notes have been successfully deleted</string>
+    <string name="id">Note Id: </string>
+    <string name="info">Note Information:</string>
+</resources>

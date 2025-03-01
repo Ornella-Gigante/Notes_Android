@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+
+        android:title="Crear"
+        android:id="@+id/crear"
+        android:icon="@drawable/suma"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+
+        android:title="Opciones"
+        android:icon="@drawable/rounded_camera_24"
+        android:id="@+id/opciones"
+        app:showAsAction="ifRoom"
+        />
+</menu>
+
